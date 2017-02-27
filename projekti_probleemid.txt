@@ -1,0 +1,26 @@
+11 punkt 
+
+esimene punkt neljas lause, ei saa aru. 
+
+Ka viienda alapunkti kitsendustest rääkiv koht, 
+ei saa aru.
+
+12 alapunkt. Kasutame
+GTIN (Global Trade Item Number) – globaalne
+kaubaartikli number
+et ka taenija saaks aru
+
+
+Kas kaupade registris peaks veel klient ka olema
+diagrammil?
+
+Töötajate registris peaks kaup ka diagrammil olema?
+
+Kuues OP ehk leping on probleemne!
+
+CRUD maatriksi puhul kaks korda Kauba_katekooria,
+miks nii?
+
+Disainivaate all genereerius uued diagrammid
+nats kahtlaselt
+
