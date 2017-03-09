@@ -24,3 +24,6 @@ miks nii?
 Disainivaate all genereerius uued diagrammid
 nats kahtlaselt
 
+
+nurksulgudes on sellised asjad, mida süsteem saab 
+kontrollida. need käivitavad sündmused käivad <> asemel. 
