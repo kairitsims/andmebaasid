@@ -1,0 +1,7 @@
+1. lepingud
+2. crud maatriks
+3. parandatud joonised faili
+4. juhendi järgi läbi lugeda
+5. lausendeid juurde lisada
+_____________________________
+andmebaas
