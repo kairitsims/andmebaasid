@@ -1,6 +1,4 @@
-1. lepingud - tuleb vaadata üle seos pikkade kirjeldustega, et need OP oleksid õiged
 2. crud maatriks
-3. parandatud joonised faili
 4. juhendi järgi läbi lugeda
 5. lausendeid juurde lisada
 _____________________________
