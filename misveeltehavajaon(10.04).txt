@@ -1,5 +1,0 @@
-2. crud maatriks
-4. juhendi järgi läbi lugeda
-5. lausendeid juurde lisada
-_____________________________
-andmebaas

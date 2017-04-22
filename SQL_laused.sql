@@ -534,7 +534,7 @@ ALTER TABLE [Klient] ADD CONSTRAINT [FK_Isik_klient]
 ;
 
 ALTER TABLE [Kaup] ADD CONSTRAINT [FK_Brand]
-	FOREIGN KEY ([kauba_seisundi_liik_kood]) REFERENCES [Brand] ([brand_kood]) ON UPDATE Cascade
+	FOREIGN KEY ([kauba_kood]) REFERENCES [Brand] ([brand_kood]) ON UPDATE Cascade
 ;
 
 ALTER TABLE [Kaup] ADD CONSTRAINT [FK_Kauba_seisundi_liik]

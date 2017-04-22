@@ -1,4 +1,0 @@
-Kaupade registri puhul
--võime panna universaalse lahenduse, talle praegu tundus okei.
--lisaks peaksime kindlasti tooma mõned eraldi kastid, et välja tuua nö ühiseid omadusi. nt kui kõigil meie 
-kaupadel on värvus või mõõdud siis loome eraldi kasti ja ühendame selle kauba kastiga.
