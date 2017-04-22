@@ -1,0 +1,2 @@
+SELECT Kaubale_kategooria_omamine.kauba_kood, Kauba_kategooria.nimetus
+FROM Kauba_kategooria INNER JOIN Kaubale_kategooria_omamine ON Kauba_kategooria.kauba_kategooria_kood = Kaubale_kategooria_omamine.kaubale_kategooria_omamine_kood;
