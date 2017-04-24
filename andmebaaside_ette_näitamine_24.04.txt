@@ -1,0 +1,80 @@
+Check kitsendused, et milliseid väärtuseid üks või teine atribuut võib omada. 
+Valideerimisreeglid. Et kui ei tohi olla tühi string, siis seda peab kontrollima. 
+
+Kauba kategooria??? ilusad telefonid, koledad telefonid, sportlikud telefonid ja naiste
+ja meeste ja igast sellised kategooriad. Üksteist mitte välistavad kategooriad. 
+Kategooria tüüp - kasutusotstarve vms
+
+süsteem peab kuvama detailandmetes ka registreerunud kasutaja ja regaega 
+ja kategooriaid jne...
+Kasutusjuhtudega kooskõla puudub
+
+Juhendi alusel on punkt 22 vms vist tegemata, et põhiobjektide nimekirjast 
+lähtuvalt tuleb täiendada mingit vaadet. need asjad, et kõikide asjade kohta on vähemalt
+1 mingi lausend ja nii edasi. 
+PÕHIPROTSESSID, mis protsess meil kõige esimesena meelde tuleb. 
+lausendid ja põhiobjektid on olemas
+kui tuleb protsesse juurde, siis tuleb sündmusi ka. 
+
+tegutsejad - kriipsujukud on kasutusjuhtude diagrammilt puudu. või siis tuleb
+tegutsejad ära kustutada. 
+
+hõbedase korpusega telefon on sama koodiga, mis valge telefon.
+
+klassifikaatorite diagramm jagada kaheks. seisundi klassifikaatorid eraldi näiteks. 
+
+kauba definitsioon on puudu. 
+
+brändi definitsioon ei meeldi talle vist. kahesõnalised definitsioonid ei meeldi talle. 
+
+ja sisemälu definitsioon ka ei meeldi. peab olema näiteks hoopis suurus gigabaitides. 
+
+valideerimisreeglid jälle on puudu. ta vist ei taha, et ühik ka seal rea peal oleks.
+peab olema ilma ühikuta ja 
+
+miks ei või sisemälu suurus olla kood? 
+koodi asemel 32 ja nimetuse asemel "väike, keskmine, suur, ülisuur"
+
+kas sisemälu on seotud kuidagi tabeliga diagonaal? vist on
+
+ei ole vaja kahte eraldi kaamera tabelit. ja sellel ühel tabelil on kaks seost nutitelefoniga.
+üks seos esimese ja teise seos tagumise kaameraga. 
+
+isikute puhul täpsusta, et on tegu eraisikuga. 
+
+hinna puhul peab ütlema, mis valuuta, kas sisaldab makse. kas on sisseostu või väljamüügi hind
+kas hind võin olla 0, kas võib olla negatiivne. 
+
+pildi aadressi puhul tuleks kontrollida, kas faili nimes on . enne failitüüpi. 
+
+kauba eksemplaar x on registreeritud, meil on kauba eksemplaar kaup on registreeritud. 
+me peame ütlema, et lisaks kauba eksemplarile loodi ka nutitelefoni ekempaar ja sellel
+on seos sisemälu vmsga.
+seos sisemäluga on nutitelefonil mitte kaubal.
+
+meil praegu on igalt poolt see nutitelefoni asi puudu lepingutes. 
+
+meil on vaja ka andmebaasi operatsioone kaubale variandi omamiseks ja ära võtmiseks.
+neid saame kirjutada tuginedes operatsioonidele. 
+
+CRUD MAAtriks kuskil peab olema u asemel crud. 
+
+andmebaasi diagrammid peab ka töö peale panema. 
+
+andmebaaside diagrammil tuleb teha paigutust ja panna klassifikaatorid ka juurde. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
